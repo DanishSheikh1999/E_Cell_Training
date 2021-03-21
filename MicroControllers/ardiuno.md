@@ -1,5 +1,5 @@
 If you already know the basics of Arduino you can directly start with NodeMCU basics and NodeMCU with firebase.
-You can use online platforms like TinkerCad for simulations of your arduino code or buy the mircrocontroller and the necessay sensors from Amazon or flipkart.
+You can use online platforms like Tinkercad for simulations of your arduino code or buy the mircrocontroller and the necessay sensors from Amazon or flipkart.
 
 Playlist Links - 
 
@@ -11,4 +11,7 @@ Playlist Links -
 
 
 Virtual platform for code simulation
-[Tinkercad](https://www.tinkercad.com/)
+
+[Tinkercad](https://www.tinkercad.com/learn/circuits)
+
+The website contains videos on how to use tinkercad for arduino simulations.
