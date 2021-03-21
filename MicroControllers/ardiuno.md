@@ -1,7 +1,7 @@
 If you already know the basics of Arduino you can directly start with NodeMCU basics and NodeMCU with firebase.
 You can use online platforms like Tinkercad for simulations of your arduino code or buy the mircrocontroller and the necessay sensors from Amazon or flipkart.
 
-Playlist Links - 
+# Playlist Links - 
 
 [Arduino Basics](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP)
 
