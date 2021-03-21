@@ -10,8 +10,6 @@ Playlist Links -
 [NodeMCU\ESP8266 with Firebase ](https://www.youtube.com/playlist?list=PLhPDb5zFmGR3qxa8JfmUdAfVH9Ou41MUx)
 
 
-Virtual platform for code simulation
-
-[Tinkercad](https://www.tinkercad.com/learn/circuits)
+Virtual platform for code simulation -  [Tinkercad](https://www.tinkercad.com/learn/circuits)
 
 The website contains videos on how to use tinkercad for arduino simulations.
