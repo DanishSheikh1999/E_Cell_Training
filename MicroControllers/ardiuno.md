@@ -9,6 +9,7 @@ You can use online platforms like Tinkercad for simulations of your arduino code
 
 [NodeMCU\ESP8266 with Firebase ](https://www.youtube.com/playlist?list=PLhPDb5zFmGR3qxa8JfmUdAfVH9Ou41MUx)
 
+[TinkerCad Tutorial](https://youtube.com/playlist?list=PL1IUyAnExZcxtyHVZ2uo6PuPGBngc-dko)
 
 Virtual platform for code simulation -  [Tinkercad](https://www.tinkercad.com/learn/circuits)
 
